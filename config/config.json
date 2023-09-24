@@ -1,0 +1,7 @@
+{
+    "PLACE_YOUR_SERVER_ID_HERE": {
+        "suggestion_channel_id": PLACE_YOUR_SUGGESTION_CHANNEL_ID_HERE,
+        "report_channel_id": PLACE_YOUR_REPORT_CHANNEL_ID_HERE,
+        "announcement_channel_id": PLACE_YOUR_ANNOUNCEMENT_CHANNEL_ID_HERE
+    }
+}

@@ -1,0 +1,33 @@
+!add_bad_word <word>: Allows administrators to add words to the filter list for content moderation.
+!about: Displays information about the bot's author, GitHub profile, and Discord contact.
+!ping: Checks the bot's latency in milliseconds.
+!verify: Allows users to verify themselves and gain access to the server.
+!serverinfo: Provides information about the current server, such as server ID, owner, member count, and more.
+!userinfo [user]: Retrieves information about a specific user or the user who issued the command.
+!avatar [user]: Displays the avatar of a specific user or the user who issued the command.
+!clear <amount>: Deletes a specified number of messages in the current channel (requires administrator permissions).
+!kick <user> [reason]: Kicks a user from the server (requires administrator permissions).
+!ban <user> [reason]: Bans a user from the server (requires administrator permissions).
+!mute <user> [reason]: Mutes a user by assigning the "Muted" role (requires administrator permissions).
+!unmute <user>: Unmutes a user by removing the "Muted" role (requires administrator permissions).
+!checkverification <user>: Checks if a user has the "Verified" role (requires administrator permissions).
+!coinflip: Simulates a coin flip and returns either "Heads" or "Tails."
+!invite: Generates an instant invite link to the current channel (if the bot has permission).
+!suggest <suggestion>: Submits a suggestion to a designated channel for review (configurable).
+!report <user> <reason>: Reports a user with a specific reason to a designated channel for review (configurable).
+!setreminder <time> <message>: Sets a reminder for the user to receive a message after a specified time (in minutes).
+!generatepassword [length]: Generates a strong random password.
+!addrole <user> <role>: Assigns a specific role to a user.
+!removerole <user> <role>: Removes a role from a user.
+!createchannel <name>: Creates a new text or voice channel.
+!deletechannel <channel>: Deletes a specified channel.
+!lockdown [reason]: Locks down the server, preventing new member joins and restricting chat.
+!unlock [reason]: Lifts the server lockdown.
+!prefix <new_prefix>: Allows administrators to change the bot's command prefix.
+!serverstats: Displays statistics about the server, including member activity and growth.
+!listreports: Lists recent user reports for server administrators to review.
+!deletereport <report_id>: Deletes a specific user report.
+!poll <question> <option1> <option2> ...: Creates a poll for server members to vote on.
+!survey <question> <option1> <option2> ...: Conducts a survey with multiple-choice questions.
+!announce <message>: Sends an announcement to a designated channel.
+!slowmode <channel> <duration>: Enables slow mode in a specific text channel to limit how often members can send messages. Specify the duration in seconds.
