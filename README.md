@@ -46,6 +46,7 @@ Greetings, server owners and moderators! We're thrilled to introduce ServerGuard
 - Download the code.
 - Visit ServerGuardian/config and setup the config.json file.
 - Then visit the ServerGuardian main folder and setup the .env file with your bot token.
+- Now, install all the requirements in the ServerGuardian main folder "requirements.txt" file.
 - Enjoy!!
 
 Join ServerGuardian today and experience the difference it can make in managing your Discord server. Whether you're a small community or a bustling server, ServerGuardian has the tools you need to succeed.
