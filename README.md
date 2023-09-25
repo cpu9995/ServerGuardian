@@ -41,6 +41,13 @@ Greetings, server owners and moderators! We're thrilled to introduce ServerGuard
 - Explore a range of additional features and commands.
 - Enhance your server's functionality and entertainment value.
 
+🛡️ **Installing ServerGuardian - Your Ultimate Discord Server Companion!** 🛡️
+
+- Download the code.
+- Visit ServerGuardian/config and setup the config.json file.
+- Then visit the ServerGuardian main folder and setup the .env file with your bot token.
+- Enjoy!!
+
 Join ServerGuardian today and experience the difference it can make in managing your Discord server. Whether you're a small community or a bustling server, ServerGuardian has the tools you need to succeed.
 
 🌐 **Website:** [ServerGuardianBot.com](https://fzhub.com)
